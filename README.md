@@ -1,39 +1,37 @@
-# 👋 Hey there, I’m Toduel!  
+# 👋 Hi, I’m Moriba Coulibaly
 
 ![Coding Meme](https://i.imgur.com/LMc0Vq2.gif)  
-*“Code works on my machine, not yours”*  
+*"Sometimes the code writes a plot twist… other times, it behaves exactly as expected 😄"*
 
 ---
 
-## 🚀 About Me  
-💻 Fullstack Developer | 🤖 AI Enthusiast | 🌍 Malian Developer 🇲🇱  
+## 🚀 About Me
+💻 Fullstack Developer | 🤖 AI Enthusiast | 🌍 Malian Developer 🇲🇱
 
-I break things... then fix them (most of the time 😅).  
-I play with **React / Next.js / Vite**, build mobile apps in **React Native** & **Flutter**,  
-and power up backends with **NestJS** + **Prisma**.  
+I build **web apps** using **React / Next.js / Vite**, **mobile apps** with **React Native & Flutter**,  
+and powerful **backends** with **NestJS + Prisma**.
 
-Sometimes, I summon the cloud gods ☁️ (**AWS**) to keep everything running.  
-
-Oh, and I like teaching computers to see things 👀 (Computer Vision & Neural Networks).  
+I also explore AI by teaching computers to see 👀 (Computer Vision & Neural Networks),  
+and sometimes call on the cloud gods ☁️ (**AWS**) to keep everything running smoothly.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 💻 Frontend  
+### 💻 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-C4FCEF?style=for-the-badge&logo=vite&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-### 🔙 Backend  
+### 🔙 Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🤖 AI / ML  
+### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -41,23 +39,23 @@ Oh, and I like teaching computers to see things 👀 (Computer Vision & Neural N
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Toduel&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toduel&layout=compact&theme=tokyonight)  
-
----
-
-## 😂 Fun Corner  
-
-![Programmer Meme](https://i.imgur.com/Cn9Rt3r.jpeg)  
-*“It’s not a bug, it’s a feature”*  
-
-📌 **Fun Fact:** I spend more time fixing bugs than writing new code.  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toduel&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toduel&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Badges / Fun Tags  
+## 📝 Fun Corner
+
+![Code Meme](https://i.imgur.com/Cn9Rt3r.jpeg)  
+*"Sometimes code surprises you… usually in a fun way!"*
+
+📌 Fun Fact: I enjoy writing clever, readable, and efficient code. Sometimes it even surprises me!
+
+---
+
+## 🏷️ Badges / Fun Tags
 
 ![Fullstack Dev](https://img.shields.io/badge/Fullstack-Developer-brightgreen?style=for-the-badge)
 ![Night Coder](https://img.shields.io/badge/Night-Coder-purple?style=for-the-badge)
@@ -67,11 +65,10 @@ Oh, and I like teaching computers to see things 👀 (Computer Vision & Neural N
 
 ---
 
-## 📬 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
-- 🌐 Portfolio coming soon (yes… another “coming soon” 😅)  
+## 📬 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/moriba-coulibaly-3785b8322/)
+- 🌐 Portfolio coming soon
 
 ---
 
-✨ *If you’ve scrolled this far, you deserve a cookie 🍪*  
+✨ *If you scrolled this far, you deserve a virtual cookie 🍪*
