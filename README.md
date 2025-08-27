@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Moriba Coulibaly
 
-![Coding Meme](https://i.imgur.com/LMc0Vq2.gif)  
+![Coding Meme](https://i.imgur.com/HRiNGmf.mp4)  
 *"Sometimes the code writes a plot twist… other times, it behaves exactly as expected 😄"*
 
 ---
