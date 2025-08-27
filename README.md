@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Moriba Coulibaly
 
-![Coding Meme](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F741b87500f9eip1evmj2.jpg)  
+![Coding Meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbbyyaZbxUJRxLgMXWNG9Rekfcj5qME5gyTi9U_v_8u-6Rbrs3wG4546ZE8vy6hQYr7M&usqp=CAU)  
 *"Sometimes the code writes a plot twist… other times, it behaves exactly as expected 😄"*
 
 ---
@@ -48,7 +48,7 @@ and sometimes call on the cloud gods ☁️ (**AWS**) to keep everything running
 
 ## 📝 Fun Corner
 
-![Code Meme](https://i.imgur.com/Cn9Rt3r.jpeg)  
+![Code Meme](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F741b87500f9eip1evmj2.jpg) 
 *"Sometimes code surprises you… usually in a fun way!"*
 
 📌 Fun Fact: I enjoy writing clever, readable, and efficient code. Sometimes it even surprises me!
