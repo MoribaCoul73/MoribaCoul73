@@ -41,7 +41,7 @@ and sometimes call on the cloud gods ☁️ (**AWS**) to keep everything running
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toduel&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moribacoul73l&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toduel&layout=compact&theme=tokyonight)
 
 ---
